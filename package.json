@@ -1,7 +1,7 @@
 {
-  "name": "solidity-empty",
+  "name": "solidity-attestation-service",
   "version": "7.0.0",
-  "description": "Solidity Empty",
+  "description": "Solidity Attestation Service",
   "keywords": [
     "solidity",
     "subgraph"
